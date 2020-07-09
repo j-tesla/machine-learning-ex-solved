@@ -4,6 +4,8 @@ Solved Assignments of [Andrew Ng's Machine Learning course](https://www.coursera
 
 -------
 
-## PDF views:
+## PDF views
 
 + [ex1](machine-learning-ex1/ex1.pdf)  
+
++ [ex2](machine-learning-ex2/ex2.pdf)  
